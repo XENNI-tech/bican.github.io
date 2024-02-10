@@ -1,0 +1,9 @@
+This TEMPLATE is FREE to use and always avalible at our Discord Server.
+Social: [Discord] - https://discord.gg/uzC6YsHxm7
+
+Description:
+ Create your own Bio-Like website very easy. Just go to the folder named "CSS", then "custom-styles.css". Then you can modify anything that you want there.
+ For video and image, put your files into the folder named "Resources" and folow the steps in the "custom-styles" file.
+
+Known Bugs:
+ If the Description is too long, it will go under the buttons. Same for Author and Titel.
